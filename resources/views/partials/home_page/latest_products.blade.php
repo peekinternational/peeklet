@@ -5,7 +5,7 @@
         <div class="row gallery-firstrow">
         <div class="col-md-4 col-sm-4">
             <div class="gridview-pic">
-                <img src="{{ asset('assets/images/first1.png') }}" alt="" style="width: 100%;">
+                <img src="{{ asset('assets/images/first1.jpg') }}" alt="" style="width: 100%;">
             </div>
             <div class="overlay">
            
