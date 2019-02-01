@@ -173,15 +173,15 @@
                             <div class="col-md-6" style="">
                                 <ul class="">
                                   
-                                  <li><a href="{{url('category/home-goods')}}">HOME GOODS</a></li>
+                                  <li><a href="{{url('category/women')}}">Women</a></li>
                                  </ul>
                             </div>
                             <div class="col-md-6">
                                 <ul class="">
                                   
 
-                                  <li><a href="{{url('/contact-us')}}">CONTACT</a></li>
-                                  <li><a href="{{url('blog')}}">BLOGS</a></li>
+                                  <li><a href="{{url('category/men')}}">Men</a></li>
+                                  <li><a href="{{url(''category/bags'')}}">Bags</a></li>
                                 </ul>
                             </div>
                         </div>  
@@ -189,8 +189,8 @@
                     <div class="col-md-2 tags-section hidden-xs">
                      
                         <h4 style="color: white;"> Tags</h4>
-                          <a href="{{url('shop/wall-art')}}" class="label label-art">Wall</a>
-                          <a href="{{url('category/furniture')}}" class="label label-men">furniture</a>
+                          <a href="{{url('shop/wall-art')}}" class="label label-art">Jackest</a>
+                          <a href="{{url('category/furniture')}}" class="label label-men">Bags</a>
                          
                     </div>
                     <div class="col-md-2">
@@ -240,7 +240,7 @@
                                            $copyYear = 2018; // Set your website start date
                                            $curYear = date('Y'); // Keeps the second year updated
                                            echo $copyYear . (($copyYear != $curYear) ? '-' . $curYear : '');
-                                           ?> Copyright.Islamic Wall Design &nbsp;
+                                           ?> Copyright.Peek let&nbsp;
                     </p>
                 </div>
                
