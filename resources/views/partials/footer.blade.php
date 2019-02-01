@@ -181,7 +181,7 @@
                                   
 
                                   <li><a href="{{url('category/men')}}">Men</a></li>
-                                  <li><a href="{{url(''category/bags'')}}">Bags</a></li>
+                                  <li><a href="{{url(category/bags)}}">Bags</a></li>
                                 </ul>
                             </div>
                         </div>  
@@ -189,8 +189,8 @@
                     <div class="col-md-2 tags-section hidden-xs">
                      
                         <h4 style="color: white;"> Tags</h4>
-                          <a href="{{url('shop/wall-art')}}" class="label label-art">Jackest</a>
-                          <a href="{{url('category/furniture')}}" class="label label-men">Bags</a>
+                          <a href="" class="label label-art">Jackest</a>
+                          <a href="" class="label label-men">Bags</a>
                          
                     </div>
                     <div class="col-md-2">
