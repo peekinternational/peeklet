@@ -173,15 +173,15 @@
                             <div class="col-md-6" style="">
                                 <ul class="">
                                   
-                                  <li><a href="{{url('category/women')}}">Women</a></li>
+                                  <li><a href="">Women</a></li>
                                  </ul>
                             </div>
                             <div class="col-md-6">
                                 <ul class="">
                                   
 
-                                  <li><a href="{{url('category/men')}}">Men</a></li>
-                                  <li><a href="{{url(category/bags)}}">Bags</a></li>
+                                  <li><a href="">Men</a></li>
+                                  <li><a href="">Bags</a></li>
                                 </ul>
                             </div>
                         </div>  
