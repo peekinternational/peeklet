@@ -9,7 +9,7 @@
             </div>
             <div class="overlay">
            
-               <a href="{{ url('shop/canvas-painting') }}" class="btn btn-lg btn-block"><span>CANVAS-And-PAinting</span></a>
+               <a href="{{ url('shop/canvas-painting') }}" class="btn btn-lg btn-block"><span>Women</span></a>
                </div>
         </div>
         <div class="col-md-4 col-sm-4">
@@ -17,7 +17,7 @@
                 <img src="{{ asset('assets/images/2nd-1.jpg') }}" alt="" style="width: 100%;">
             </div>
             <div class="overlay">
-               <a href="{{ url('category/car-decor') }}" class="btn btn-lg btn-block"><span>CAR DECOR</span></a>
+               <a href="{{ url('category/car-decor') }}" class="btn btn-lg btn-block"><span>Men</span></a>
             </div>
         </div>
         <div class="col-md-4 col-sm-4">
@@ -25,7 +25,7 @@
                 <img src="{{ asset('assets/images/first3.jpg') }}" alt="" style="width: 100%;">
             </div>
             <div class="overlay">
-                <a href="{{ url('category/clocks')}}" class="btn btn-lg btn-block"><span>CLOCKS</span></a>
+                <a href="{{ url('category/clocks')}}" class="btn btn-lg btn-block"><span>Bags</span></a>
             </div>
         </div>
     </div>
@@ -35,7 +35,7 @@
                 <img src="{{ asset('assets/images/2nd-1.jpg') }}" alt="" style="width: 100%;">
             </div>
             <div class="overlay">
-                <a href="{{url('category/home-goods')}}" class="btn btn-lg btn-block"><span>Home Goods</span></a>
+                <a href="{{url('category/home-goods')}}" class="btn btn-lg btn-block"><span>Belts</span></a>
             </div>
         </div>
         <div class="col-md-3 col-sm-3">
@@ -43,7 +43,7 @@
                 <img src="{{ asset('assets/images/2nd-2.jpg') }}" alt="" style="width: 100%;">
             </div>
             <div class="overlay">
-                <a href="{{url('category/jewelry')}}" class="btn btn-lg btn-block"><span>JEWELRY</span></a>
+                <a href="{{url('category/jewelry')}}" class="btn btn-lg btn-block"><span>Motorcycle</span></a>
             </div>
         </div>
         <div class="col-md-3 col-sm-3">
@@ -51,7 +51,7 @@
                 <img src="{{ asset('assets/images/2nd-3.jpg') }}" alt="" style="width: 100%;">
             </div>
             <div class="overlay">
-                <a href="{{url('category/table-decor')}}" class="btn btn-lg btn-block"><span>TABLE DECOR</span></a>
+                <a href="{{url('category/table-decor')}}" class="btn btn-lg btn-block"><span>Long jackets</span></a>
             </div>
         </div>
         <div class="col-md-3 col-sm-3">
@@ -59,7 +59,7 @@
                 <img src="{{ asset('assets/images/2nd-4.jpg') }}" alt="" style="width: 100%;">
             </div>
             <div class="overlay">
-                <a href="{{url('category/wall-art')}}" class="btn btn-lg btn-block"><span>wALL ART</span></a>
+                <a href="{{url('category/wall-art')}}" class="btn btn-lg btn-block"><span> Winter Coats</span></a>
             </div>
         </div>
     </div>
