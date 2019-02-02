@@ -11,7 +11,7 @@
                  <ul class="breadcrumb" style="float: left !important">
                         <li><a href="#">Home</a></li>
                         <li><a href="{{ url('products')}}">{{$products[0]->category->name }}</a></li>
-                        <li>{{ $product->name }}</li>
+                        <li class="wrap-title">{{ $product->name }}</li>
                   </ul>
 
                 <div class="col-sm-8">

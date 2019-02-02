@@ -18,8 +18,8 @@
                      
                         <ul class="breadcrumb" style="float: left !important;">
                       <li><a href="{{ url('/') }}">Home</a></li>
-                      <li><a href="">{{$products[0]->category->name }}</a></li>
-                 </ul>
+                      <li><a class="wrap-title" href="">{{$products[0]->category->name }}</a></li>
+                      </ul>
                      <a href="#" id="toggle_shop_view" class="" style="float: right!important;"></a>
                     
                 </div>
