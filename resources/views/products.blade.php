@@ -14,12 +14,10 @@
                     @if($products->count()>0)
 
                  <div class="shop-sorting hidden-xs">
-
-                     
-                        <ul class="breadcrumb" style="float: left !important;">
+                         <ul class="breadcrumb" style="float: left !important;">
                       <li><a href="{{ url('/') }}">Home</a></li>
                       <li><a class="wrap-title" href="">{{$products[0]->category->name }}</a></li>
-                      </ul>
+                 </ul>
                      <a href="#" id="toggle_shop_view" class="" style="float: right!important;"></a>
                     
                 </div>
